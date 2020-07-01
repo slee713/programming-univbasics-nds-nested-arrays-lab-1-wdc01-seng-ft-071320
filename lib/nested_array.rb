@@ -31,8 +31,8 @@ def sorted_matrix
   organic_sorted = ORGANIC_PRODUCE.sort()
   conventional_sorted = CONVENTIONAL_PRODUCE.sort()
   sorted_combined_array = [
-    organic_sorted,
-    conventional_sorted
+    conventional_sorted,
+    organic_sorted
   ]
 end
 
